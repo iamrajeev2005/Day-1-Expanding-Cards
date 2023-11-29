@@ -1,9 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@font-face {
+    font-family: Gilroy;
+    src: url(./Gilroy-Regular.ttf);
+}
 *{
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
-    font-family: "Open Sans";
+    font-family: Gilroy;
 }
 html,body{
     height: 100vh;
